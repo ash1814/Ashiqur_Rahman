@@ -1,0 +1,23 @@
+title: Ashiqur Rahman
+description: Jr. Test Engineer, @ Sheba Platform Limited.
+baseurl: "/Ashiqur_Rahman/"
+url: ""
+photo_url: "my-photo.jpg"
+
+# This is an optional section
+# You can skip filling in one or more of the items in this section
+email: "talk2ashiq@gmail.com"
+linkedin: "https://www.linkedin.com/in/ashiqur-rahman-869101134/"
+github: "https://github.com/ash1814"
+website: "https://ash1814.github.io/ashiqur_rahman_portfolio/"
+
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  
