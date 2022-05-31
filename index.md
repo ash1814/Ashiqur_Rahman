@@ -31,7 +31,7 @@ features/improvement of existing features/bug fixes targeting a release
 
 
 ### ShareTrip,  
-***Software Engineer Trainee (Dec 2019 – March 2020)*** &middot;	***Internship***
+***Software Engineer (Dec 2019 – March 2020)*** &middot;	***Internship***
 * Worked as a Backend Developer
 * Developed In-house portal module using Laravel.
 
@@ -58,7 +58,7 @@ features/improvement of existing features/bug fixes targeting a release
 ---
 ## HONORS & ACHIEVEMENTS
 ---
-*Top Finalist of Business Challenge Competition organized by Bangladesh Innovation Forum
+*Top Finalist of Business Challenge Competition organized by Bangladesh Innovation Forum<br />
 *Top Finalist (Ideathon) organized by Startup Bangladesh.
 
 
