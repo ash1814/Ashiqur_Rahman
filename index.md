@@ -58,7 +58,7 @@ features/improvement of existing features/bug fixes targeting a release
 ---
 ## HONORS & ACHIEVEMENTS
 ---
-*Top Finalist of Business Challenge Competition organized by Bangladesh Innovation Forum
+*Top Finalist of Business Challenge Competition organized by Bangladesh Innovation Forum<br />
 *Top Finalist (Ideathon) organized by Startup Bangladesh.
 
 
