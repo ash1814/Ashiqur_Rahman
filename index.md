@@ -67,7 +67,7 @@ features/improvement of existing features/bug fixes targeting a release
 ---
 ## PROJECT
 ---
-* **[E2E Test Automation](https://github.com/Tahanima/test-automation-boilerplate):** E2E Ui Automation  
+* **[E2E Test Automation](https://github.com/ash1814/ash1814-Smanager_website_e2e_cypress-):** E2E Ui Automation  
 **Tools** &#124; **Technologies:** Javascript, Cypress, Git 
 
 <br />
