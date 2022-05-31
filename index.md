@@ -13,7 +13,7 @@ title: Resume
 * Review requirements, specifications, and technical design documents.
 * Has been the primary QA personnel responsible for a number of re-designed modules of my team
 * Perform thorough sanity and regression testing when bugs are resolved.
-* Perform with Load testing and API testing using JMeter, Postman, ThunderClient, Swagger
+* Perform Load testing and API testing using JMeter, Postman, ThunderClient, Swagger
 *  Coordinate with Software developers and execute feature-specific test cases.
 * Find scopes of test automation and prepare test automation scripts using Cypress (Javascript)
 
