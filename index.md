@@ -31,7 +31,7 @@ features/improvement of existing features/bug fixes targeting a release
 
 
 ### ShareTrip,  
-***Software Engineer Trainee (Dec 2019 – March 2020)*** &middot;	***Internship***
+***Software Engineer (Dec 2019 – March 2020)*** &middot;	***Internship***
 * Worked as a Backend Developer
 * Developed In-house portal module using Laravel.
 
