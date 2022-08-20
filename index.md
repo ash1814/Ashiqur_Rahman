@@ -6,6 +6,19 @@ title: Resume
 ---
 ## EXPERIENCE
 ---
+### Softwrd Limited  
+***Software Engineer,QA , (July 2022 - Present)*** &middot;	***Full-time***   
+
+* Designing and executing tests to check for system issues
+* Documenting test cases
+* Coding automated tests
+* Creating test plans
+* Developing standards and procedures to determine product quality and release readiness
+* Discovering bugs within the software
+* Driving innovation and streamlining the overall testing process
+* Identifying, isolating, and tracking bugs throughout testing
+* Performing manual and automated tests
+* Reviewing user interfaces for consistency and functionality
 
 ### Sheba Platform Limited  
 ***Jr. Test Engineer, (March 2021 - Present)*** &middot;	***Full-time***   
