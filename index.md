@@ -23,7 +23,7 @@ title: Resume
 
 
 ### Sheba Platform Limited  
-***Jr. Test Engineer, (March 2021 - Present)*** &middot;	***Full-time***   
+***Jr. Test Engineer, (March 2021 - June 2022)*** &middot;	***Full-time***   
 
 * Review requirements, specifications, and technical design documents.
 * Has been the primary QA personnel responsible for a number of re-designed modules of my team
