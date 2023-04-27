@@ -93,5 +93,5 @@ features/improvement of existing features/bug fixes targeting a release
 ---
 ## SKILLS  
 ---
-* **Languages:** Javascript, PHP, SQL
+* **Languages:** Javascript, Python, SQL
 * **Tools** &#124; **Technologies:** Cypress, Selenium WebDriver, Gradle, TestNG, JMeter, Git, JIRA
