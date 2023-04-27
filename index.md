@@ -23,6 +23,8 @@ title: Resume
 ### Sheba Platform Limited  
 ***Jr. Test Engineer, (March 2021 - June 2022)*** &middot;	***Full-time***   
 
+* Act as a Scrum Master and responsible for facilitating communication within the team and with external stakeholders. 
+* Responsible for facilitating the Scrum process, which includes organizing and facilitating the Scrum events (Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective) and ensuring that the team follows the Scrum framework.
 * Review requirements, specifications, and technical design documents.
 * Has been the primary QA personnel responsible for a number of re-designed modules of my team
 * Perform thorough sanity and regression testing when bugs are resolved.
