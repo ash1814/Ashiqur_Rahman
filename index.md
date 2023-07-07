@@ -73,7 +73,7 @@ features/improvement of existing features/bug fixes targeting a release
 ---
 ## HONORS & ACHIEVEMENTS
 ---
-*Certified Scrum Master<br />
+***[Certified Scrum Master](https://bcert.me/scaipyhek):**<br />
 *Top Finalist of Business Challenge Competition organized by Bangladesh Innovation Forum<br />
 *Top Finalist (Ideathon) organized by Startup Bangladesh.
 
