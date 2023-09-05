@@ -6,29 +6,29 @@ title: Resume
 ---
 ## EXPERIENCE
 ---
-
 ### Softwrd Limited  
 ***Software Engineer,QA , (July 2022 - Present)*** &middot;	***Full-time***   
 
-* Designing and executing tests to check for system issues
-* Documenting test cases
-* Coding automated tests
-* Creating test plans
-* Developing standards and procedures to determine product quality and release readiness
-* Discovering bugs within the software
-* Driving innovation and streamlining the overall testing process
-* Identifying, isolating, and tracking bugs throughout testing
-* Performing manual and automated tests
+* Working as Scrum Master to facilate Scrum Events.
+* Elevated the Automation Testing Framework using Cypress in conjunction with JavaScript following TDD and BDD approach. 
+* Developed CI/CD pipeline using Github Actions and AWS CodeBuild
+* Proficiently conducted API/Services Testing.
+* Crafted comprehensive plans for both Manual and Automated Testing.
+* Meticulously executed Feature Testing.
+* Demonstrated adeptness in Test Management and facilitated seamless collaboration, both within the team and with external stakeholders.
+* Employed Exploratory Testing methodologies to enhance the overall user experience.
+* Conducted rigorous Load Testing using JMeter to ensure system resilience and performance.
 * Reviewing user interfaces for consistency and functionality
-
 
 ### Sheba Platform Limited  
 ***Jr. Test Engineer, (March 2021 - June 2022)*** &middot;	***Full-time***   
 
+* Act as a Scrum Master and responsible for facilitating communication within the team and with external stakeholders. 
+* Responsible for facilitating the Scrum process, which includes organizing and facilitating the Scrum events (Sprint Planning, Daily Scrum, Sprint   Review, and Sprint Retrospective) and ensuring that the team follows the Scrum framework.
 * Review requirements, specifications, and technical design documents.
 * Has been the primary QA personnel responsible for a number of re-designed modules of my team
 * Perform thorough sanity and regression testing when bugs are resolved.
-* Perform with Load testing and API testing using JMeter, Postman, ThunderClient, Swagger
+* Perform Load testing and API testing using JMeter, Postman, ThunderClient, Swagger
 *  Coordinate with Software developers and execute feature-specific test cases.
 * Find scopes of test automation and prepare test automation scripts using Cypress (Javascript)
 
@@ -73,6 +73,7 @@ features/improvement of existing features/bug fixes targeting a release
 ---
 ## HONORS & ACHIEVEMENTS
 ---
+***[Certified Scrum Master](https://bcert.me/scaipyhek):**<br />
 *Top Finalist of Business Challenge Competition organized by Bangladesh Innovation Forum<br />
 *Top Finalist (Ideathon) organized by Startup Bangladesh.
 
@@ -82,13 +83,16 @@ features/improvement of existing features/bug fixes targeting a release
 ---
 ## PROJECT
 ---
-* **[E2E Test Automation](https://github.com/Tahanima/test-automation-boilerplate):** E2E Ui Automation  
+* **[E2E Test Automation](https://github.com/ash1814/ash1814-Smanager_website_e2e_cypress-):** E2E Ui Automation  
 **Tools** &#124; **Technologies:** Javascript, Cypress, Git 
+
+* **[Api Test Automation](https://github.com/ash1814/Api_automation_using_cypress):** API Automation  
+**Tools** &#124; **Technologies:** Javascript, Cypress, Github Actions 
 
 <br />
   
 ---
 ## SKILLS  
 ---
-* **Languages:** Javascript, PHP, SQL
+* **Languages:** Javascript, Python, SQL
 * **Tools** &#124; **Technologies:** Cypress, Selenium WebDriver, Gradle, TestNG, JMeter, Git, JIRA
