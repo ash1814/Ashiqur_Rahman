@@ -9,15 +9,15 @@ title: Resume
 ### Softwrd Limited  
 ***Software Engineer,QA , (July 2022 - Present)*** &middot;	***Full-time***   
 
-* Designing and executing tests to check for system issues
-* Documenting test cases
-* Coding automated tests
-* Creating test plans
-* Developing standards and procedures to determine product quality and release readiness
-* Discovering bugs within the software
-* Driving innovation and streamlining the overall testing process
-* Identifying, isolating, and tracking bugs throughout testing
-* Performing manual and automated tests
+* Working as Scrum Master to facilate Scrum Events.
+* Elevated the Automation Testing Framework using Cypress in conjunction with JavaScript following TDD and BDD approach. 
+* Developed CI/CD pipeline using Github Actions and AWS CodeBuild
+* Proficiently conducted API/Services Testing.
+* Crafted comprehensive plans for both Manual and Automated Testing.
+* Meticulously executed Feature Testing.
+* Demonstrated adeptness in Test Management and facilitated seamless collaboration, both within the team and with external stakeholders.
+* Employed Exploratory Testing methodologies to enhance the overall user experience.
+* Conducted rigorous Load Testing using JMeter to ensure system resilience and performance.
 * Reviewing user interfaces for consistency and functionality
 
 ### Sheba Platform Limited  
