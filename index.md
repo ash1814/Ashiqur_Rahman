@@ -9,9 +9,9 @@ title: Resume
 ### Softwrd Limited  
 ***Software Engineer,QA , (July 2022 - Present)*** &middot;	***Full-time***   
 
-* Working as Scrum Master to facilate Scrum Events.
+* Working as Scrum Master to facilitate Scrum Events.
 * Elevated the Automation Testing Framework using Cypress in conjunction with JavaScript following TDD and BDD approach. 
-* Developed CI/CD pipeline using Github Actions and AWS CodeBuild
+* Developed CI/CD pipeline using GitHub Actions and AWS CodeBuild
 * Proficiently conducted API/Services Testing.
 * Crafted comprehensive plans for both Manual and Automated Testing.
 * Meticulously executed Feature Testing.
