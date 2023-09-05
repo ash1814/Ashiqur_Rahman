@@ -11,7 +11,7 @@ title: Resume
 
 * Working as Scrum Master to facilate Scrum Events.
 * Elevated the Automation Testing Framework using Cypress in conjunction with JavaScript following TDD and BDD approach. 
-* Developed CI/CD pipeline using Github Actions and AWS CodeBuild
+* Developed CI/CD pipeline using GitHub Actions and AWS CodeBuild
 * Proficiently conducted API/Services Testing.
 * Crafted comprehensive plans for both Manual and Automated Testing.
 * Meticulously executed Feature Testing.
